@@ -1,4 +1,4 @@
-{
+{gh repo clone 0xsarawut/func-js}
     "name": "@ton-community/func-js",
     "version": "0.11.0",
     "description": "The TON FunC smart-contract compiler",
